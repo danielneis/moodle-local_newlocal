@@ -1,10 +1,18 @@
 {
-  "name": "danielneis/moodle-local_newlocal",
-  "type": "moodle-local",
-  "require": {
-    "composer/installers": "~1.0"
-  },
-  "extra": {
-    "installer-name": "newlocal"
-  }
+    "name": "danielneis/moodle-local_newlocal",
+    "description": " This is a template for Moodle local plugins",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Daniel Neis Araujo",
+            "email": "danielneis@gmail.com"
+        }
+    ],
+    "type": "moodle-local",
+    "require": {
+      "composer/installers": "~1.0"
+    },
+    "extra": {
+      "installer-name": "newlocal"
+    }
 }
