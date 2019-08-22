@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * You may jave capabilities for your plugin.
+ * You may have capabilities for your plugin.
  *
- * @package    local_solr
+ * @package    local_newlocal
  * @copyright  2014 Daniel Neis
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
